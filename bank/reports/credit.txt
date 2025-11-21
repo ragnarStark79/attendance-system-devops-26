@@ -1,0 +1,7 @@
+101,500,Credit
+103,1000,Credit
+105,300,Credit
+107,700,Credit
+109,1200,Credit
+111,400,Credit
+113,600,Credit
